@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>My Portfolio</title>
   <header>
     <h1>👋 Hi, I'm Giannis - Java Software Developer</h1>
     <p>Software Developer specializing in Java, Quarkus & JSF</p>
