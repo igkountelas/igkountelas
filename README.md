@@ -4,41 +4,6 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>My Portfolio</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background: #f5f7fa;
-      color: #333;
-      text-align: center;
-      padding: 2rem;
-    }
-    header {
-      margin-bottom: 2rem;
-    }
-    .projects {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-      gap: 1.5rem;
-    }
-    .project {
-      background: white;
-      border-radius: 12px;
-      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-      padding: 1rem;
-      width: 280px;
-      transition: transform 0.2s;
-    }
-    .project:hover {
-      transform: translateY(-5px);
-    }
-    a {
-      text-decoration: none;
-      color: #007acc;
-    }
-  </style>
-</head>
-<body>
   <header>
     <h1>👋 Hi, I'm Giannis - Java Software Developer</h1>
     <p>Software Developer specializing in Java, Quarkus & JSF</p>
