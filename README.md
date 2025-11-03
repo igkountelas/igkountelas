@@ -34,8 +34,26 @@ The platform covers all approaches for Operational, Market and Credit Risk Calcu
     </div>
     <div class="project">
       <h2>Operational Risk Losses</h2>
-      <p>Operational Risk Losses is a java based monolith application that acts as a reporting system regarding damages for banks</p>
+      <p>Operational Risk Losses is a project that aims to provide a solution for managing, analyzing and reporting operational risk losses in Bank Organizations. It is designed to help banks track, report, and analyze operational risk events and losses, enabling them to make informed decisions and improve their risk management practices.</p>
     </div>
+    ## 🧱 Tech Stack
+
+The project is built using Java 21 and Quarkus, a modern Java framework designed for cloud-native applications.
+
+This project uses Quarkus, the Supersonic Subatomic Java Framework.
+
+If you want to learn more about Quarkus, please visit its website: https://quarkus.io/.
+
+| Layer          | Technology                                                     |
+|----------------|----------------------------------------------------------------|
+| Language       | Java 21                                                        |
+| Framework      | Quarkus                                                        |
+| Tools          | Hibernate, JPAStreamer, Hibernate Envers, Flyway, Apache Camel |
+| Frontend       | JSF                                                            |
+| Database       | PostgreSQL / MSSQL                                             |
+| Authentication | Keycloak                                                       |
+| Build Tool     | Maven                                                          |
+| DevOps         | Docker                                                         |
 
   </section>
 </body>
